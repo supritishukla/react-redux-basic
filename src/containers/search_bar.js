@@ -16,7 +16,8 @@ class Search extends Component {
 	}
 	
 	render() {
-		return(	<div>
+		return(	<div className="container-fluid text-center">
+					<h6 className="text-center">List!!!</h6>
 					<input 
 						contentEditable={true}
 						type="text" 
